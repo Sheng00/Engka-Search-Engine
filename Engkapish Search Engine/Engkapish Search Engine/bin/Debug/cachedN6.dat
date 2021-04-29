@@ -1,0 +1,135 @@
+<html>
+<head>
+<title> Engkapish-Story-Booth </title>
+</head>
+<body>
+<body bgcolor="grey">
+<h1>
+<marquee direction="left" class="marqu"> Engkapish Story Booth </marquee>
+</h1>
+<br>
+<br>
+<div class="background">
+<div class="editor">
+<br>
+<br>
+<div class="end">
+<center>
+This is my first story and website on this Search Engine, Enjoy!
+</center>
+</div>
+<br>
+<br>
+Editor: Time to start my first day of C coding
+<br>
+<br>
+<div class="cvirus">
+C Virus: Hello Editor I see you are starting your first day of C coding do you need any help?
+</div>
+<br>
+Editor: No I think I am fine for now
+<br>
+<br>
+<div class="cvirus">
+C Virus: Well if you are having any trouble just say help
+</div>
+<br>
+Editor: Ok I will but for now I think I am good
+<br>
+<br>
+<div class="cvirus">
+C Virus in mind: hahaha he will soon ask for help and then his account will be mine
+</div>
+<br>
+Editor: Hmm what goes after print?
+<br>
+<br>
+<div class="cvirus">
+C Virus: I see you are stuck on the printf function do you need help?
+<br>
+<br>
+C Virus: send me $5 by tonight and I will send you a book about C coding alright?
+</div>
+<br>
+Editor:Ok but how will I send you $5 and how do I know you are not a hacker?
+<br>
+<br>
+<div class="cvirus">
+C Virus:I am not a hacker I just want you to learn about C coding
+</div>
+<br>
+Editor:Ok so I will send you $5 and you send me the book a week after I give you the money
+<br>
+<br>
+Editor:*sends money*
+<br>
+<br>
+<div class="cvirus">
+C Virus:*Gets money*
+<br>
+<br>
+C Virus:*gets bank info and take 1.5m from account*
+</div>
+<br>
+Editor:You hacker why did you take all my money!?!
+<br>
+<br>
+<div class="cvirus">
+C Virus:I am coming for your harddrive next hahaha
+</div>
+<br>
+Editor:You can't get into my account because I have a fire wall and 4 step verification
+<br>
+<br>
+<div class="cvirus">
+C Virus:Just you wait hahaha!!!
+</div>
+<br>
+<div class="end">
+The End
+<br>
+If you want to see more story's text my gmail
+<br>
+My gmail is jaxongignac@gmail.com
+</div>
+<br>
+</div>
+</div>
+</body>
+</html>
+
+<style>
+.background {
+background-color:black;
+color:white;
+border-radius: 12px;
+}
+</style>
+
+<style>
+.editor {
+color: blue;
+background-color: transparent;
+}
+</style>
+
+<style>
+.cvirus {
+color: red;
+background-color: transparent;
+}
+</style>
+
+<style>
+.marqu {
+color: white;
+background-color: transparent;
+}
+</style>
+
+<style>
+.end {
+color:green;
+background-color:transparent;
+}
+</style>

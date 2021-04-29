@@ -1,0 +1,64 @@
+<html>
+<head>
+<title> Kolbys-Site </title>
+</head>
+<body>
+
+<center>
+	<br>
+	<div class="redBack">
+		<h1>
+	<marquee direction="right"> <a href="https://www.youtube.com/channel/UCjQvBuyULWRF_pb6-hYBguw"> Check out my Youtube Channel </a> </marquee>
+</h1>
+	<br>
+	<br>
+	<br>
+</div>
+<div class="greenBack">
+	<br>
+	<br>
+	<h2>
+	This is my favourite color!!!
+</h2>
+<br>
+<br>
+<br>
+	</div>
+	<div class="blueBack">
+		<h2>
+			<br>
+<br>
+<br>
+
+			This is my favourite song:
+<a href="https://www.youtube.com/watch?v=w_z9gofWxJs"> Symphony (Youtube) </a>
+		</h2>
+		<br>
+<br>
+<br>
+
+	</div>
+	<body bgcolor="black">
+</center>
+	</body>
+</html>
+<style>
+.redBack {
+color:white;
+height:auto;
+width:auto;
+background-color: red;
+}
+.greenBack {
+color:white;
+height:auto;
+width:auto;
+background-color: green;
+}
+.blueBack {
+color:white;
+height:auto;
+width:auto;
+background-color: blue;
+}
+	</style>

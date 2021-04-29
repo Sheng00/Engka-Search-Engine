@@ -1,0 +1,91 @@
+<html>
+<head>
+<title> Main </title>
+</head>
+<body>
+	<div class="transparentOverlay">
+	<br>
+	<center>
+		<h1>
+	<marquee direction="right"> Main Page </marquee>
+</h1>
+</center>
+	<br>
+	<body bgcolor="red">
+		<h2>
+			<center>
+				To Search:
+			</center>
+		</h2>
+		<center>
+			<br>
+				<p>
+					To search within this Search Engine, at the top 'url', write the name of the site you want to reach, results for the site will appear on the left side, click the result you want and the page will load.
+				</p>
+		</center>
+
+		<br>
+		<br>
+				<h2>
+			<center>
+				To Create a Site:
+			</center>
+		</h2>
+		<center>
+			<br>
+				<p>
+					To create a site, at the bottom left corner is a button: "Create Site!", click it, on the new tab, write the page name you want, the html content for it, (Can be multiple files) and submit the data, within 24-48 hours, your site should be published!
+				</p>
+		</center>
+		<br>
+		<br>
+		<br>
+				<br>
+		<br>
+		<br>
+				<br>
+		<br>
+		<br>
+				<br>
+		<br>
+		<br>
+				<br>
+		<br>
+		<br>
+				<br>
+		<br>
+		<br>
+				<br>
+		<br>
+		<br>
+		<div class="byKoderz">
+			<center>
+			<font size="8">
+					Engineered by Koderz
+			</font>
+			</center>
+</div>
+</div>
+
+</body>
+</html>
+<style>
+.transparentOverlay {
+	background: #0000008a;
+	opacity: 0.85;
+	background-color: black;
+	color:white;
+	border-radius: 12px;
+	height: auto;
+	width: auto;
+}
+</style>
+<style>
+.byKoderz{
+background-color: grey;
+color:white;
+border-radius: 12px;
+height: auto;
+width: auto;
+}
+</style>

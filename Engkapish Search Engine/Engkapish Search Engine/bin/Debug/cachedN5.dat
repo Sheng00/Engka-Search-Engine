@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style src="style.css"> </style>
+	<script src="funcs.js"> </script>
+	    <link rel="icon" type="image/gif/png" href="pumpkin.gif">
+<title> HeadlessHunter </title>
+</head>
+<body>
+<script>
+alert('Welcome to HeadlessHunter Flash Game! Press "OK" to continue')
+</script>
+<div class="container-head">
+<br>
+<center> <h1> HeadlessHunter </h1> </center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BannerAD1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:250px"
+     data-ad-client="ca-pub-4171461292501010"
+     data-ad-slot="2515234276"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<div class="container-footer">
+<br>
+ <center> <h2> <strong><a href="/about.htm"> ABOUT </a></strong> </h2> </center>
+<br>
+<left> <h3> Release Date: Before September 4th </h3> </left>
+</div>
+<!-- Styles -->
+<style>
+.container-footer {
+background-color: #292232;
+border-radius: 7px;
+color: white;
+width: auto;
+height: auto;
+}
+</style>
+<style>
+.container-head {
+background-color: #473E52;
+border-radius: 10px;
+width: auto;
+height: auto;
+}
+</style>
+
+</body>
+</html>
